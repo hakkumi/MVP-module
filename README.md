@@ -40,9 +40,9 @@ localStorage (для хранения данных)
 
 📁 Структура проекта
 textБизнесУчёт/
-├── index.html          ← основное приложение
-├── README.md           ← этот файл
-└── (в будущем: /css, /js, backend и т.д.)
+├── index.html
+
+├── README.md
 
 📋 Функциональные возможности (User Stories)
 
